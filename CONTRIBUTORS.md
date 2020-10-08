@@ -2117,7 +2117,7 @@ Email: supertakumi86@gmail.com
 Name: Sakina Fakhruddin (https://github.com/Sando1)
 Place: Canada
 About: Student
-Programming Language: Python, Php
+Programming Languages: Python, Php
 
 
 Name: [Prasun](https://github.com/rupna100)<br/>
